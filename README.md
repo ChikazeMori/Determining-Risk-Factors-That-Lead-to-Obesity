@@ -1,4 +1,4 @@
-# INM430-Principles-of-Data-Science
+# Determining Risk Factors That Lead to Obesity
 
 ## Description 🖋️
 
